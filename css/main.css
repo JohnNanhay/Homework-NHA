@@ -1,0 +1,81 @@
+td{
+  border:solid 1px black; width:100px; height:100px; text-align: center;
+}
+#header{
+  background-color: lightblue
+}
+#r1c1{
+  background-color: #00FF00;
+  color: red;
+}
+#r1c2{
+  background-color: #00CC00;
+  background-image: url("../afbeeldingen/dice1.png");
+  background-size: cover;
+}
+#r1c3{
+  background-color: #009900;
+  color: blue;
+}
+#r1c4{
+  background-color: #006600;
+  background-image: url("../afbeeldingen/dice5.png");
+  background-size: cover;
+}
+#r2c1{
+  background-color: #CC6600;
+  color: yellow;
+}
+#r2c2{
+  background-color: #CC9900;
+  background-image: url("../afbeeldingen/dice2.png");
+  background-size: cover;
+}
+#r2c3{
+  background-color: #CCCC00;
+  color: violet;
+}
+#r2c4{
+  background-color: #CCFF00;
+  background-image: url("../afbeeldingen/dice6.png");
+  background-size: cover;
+}
+#r3c1{
+  background-color: #0099FF;
+  color: green;
+}
+#r3c2{
+  background-color: #0066FF;
+  background-image: url("../afbeeldingen/dice3.png");
+  background-size: cover;
+}
+#r3c3{
+  background-color: #0033FF;
+  color: purple;
+}
+#r3c4{
+  background-color: #000066;
+  background-image: url("../afbeeldingen/dice1.png");
+  background-size: cover;
+}
+#r4c1{
+  background-color: #FF9900;
+  color: black;
+}
+#r4c2{
+  background-color: #FF6600;
+  background-image: url("../afbeeldingen/dice4.png");
+  background-size: cover;
+}
+#r4c3{
+  background-color: #FF3300;
+  color: orange;
+}
+#r4c4{
+  background-color: #FF0000;
+  background-image: url("../afbeeldingen/dice2.png");
+  background-size: cover;
+}
+.ft{background-color: darkblue;
+  color: white;
+}
